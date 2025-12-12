@@ -19,5 +19,4 @@ with open(filename, "w") as f:
 
 print(f"Data successfully parsed to {os.path.abspath(filename)}")
 
-
 # Testing Webhook
